@@ -7,6 +7,8 @@ Atualmente, estou estudando 󠀨󠀨desenvolvimento fullstack para poder atuar n
 
 Espero me tornar um excelente profissional da área, e boa parte do meu material de estudo/ práticas ficará disponível por aqui.
 
+Meu portfólio está disponível aqui: https://otaciliow.github.io
+
 <div align="center">
   <a href="https://github.com/otaciliow">
   <img align="center" height="220em" width="410em" src="https://github-readme-stats.vercel.app/api?username=otaciliow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
