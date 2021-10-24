@@ -1,7 +1,10 @@
 ### Hello there! I'm Otacilio! 👋
 
-📃 Software Specification <br>
+<a href="https://linkedin.com/in/otacilio-dml" target="_blank">My Linkedin</a>
+
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+
+📃 Software Specification <br>
 
 You can see a preview of some of my projects here: https://otaciliow.github.io
 
