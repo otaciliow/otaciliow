@@ -5,12 +5,12 @@
 The technologies that I work with:
 
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<br/>
+<br/><br/>
 <img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-<br/>
+<br/><br/>
 <img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-<br/>
+<br/><br/>
 <img align="center" alt="Rafa HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 
 📃 Software Specification <br>
