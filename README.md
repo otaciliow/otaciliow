@@ -1,6 +1,6 @@
 ### Hello there! I'm Otacilio! 👋
 
-I work as a front-end developer, but I also have some affinity with back-end. I have a lot of fun coding, and I'm always looking for new experiences in the development world! My main hobby is to play videogames (mainly MMORPGs), but I also love sports and spendig some time with my family.
+I work as a front-end developer, but I also have some affinity with back-end. I have a lot of fun coding, and I'm always looking for new experiences in the development world! My main hobby is to play videogames (mainly MMORPGs), but I also love sports and spending some time with my family.
 
 - <a href="https://linkedin.com/in/otacilio-dml" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="logo linkedin" height="30" /></a>
 
