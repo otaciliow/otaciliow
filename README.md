@@ -12,9 +12,10 @@ These are the technologies that I work with:
   <img align="center" alt="logo-javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
   <img align="center" alt="logo-typescript" height="40"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;&nbsp;
   <img align="center" alt="logo-reactjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="logo-reactjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="logo-vitejs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">&nbsp;&nbsp;
   <img align="center" alt="logo-nextjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
   <img align="center" alt="logo-python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="logo-ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="logo-sass" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">&nbsp;&nbsp;
   <img align="center" alt="logo-tailwindcss" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">&nbsp;&nbsp;
   <img align="center" alt="logo-firebase" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">&nbsp;&nbsp;
