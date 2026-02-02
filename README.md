@@ -21,11 +21,10 @@ These are the technologies that I work with:
   <img align="center" alt="logo-mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
 
-<div align="center">
-  <a href="https://github.com/otaciliow">
+<!-- <div align="center">
   <img align="center" height="220em" width="410em" src="https://github-readme-stats.vercel.app/api?username=otaciliow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaciliow&layout=compact&langs_count=7&theme=tokyonight"/>
- </div>
+ </div> -->
     
 <!--
 **otaciliow/otaciliow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
