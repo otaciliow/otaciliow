@@ -15,7 +15,6 @@ jobs:
 
           # Base
           base: header, activity, community, repositories
-          template: dark
           config_timezone: America/Sao_Paulo
 
           # Linguagens
